@@ -1,5 +1,5 @@
-We built a machine to make one button shine bright,
-With twelve nested switches to get the thing right;
-It drew up a plan,
+A button sat waiting to glow,
+Its switches all whirred to and fro;
+The gears drew a plan,
 Then hired a fan,
-To cool all the gears through the night.
+They tripped the breaker: no glow.
