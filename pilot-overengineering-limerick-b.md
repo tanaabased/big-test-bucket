@@ -1,5 +1,5 @@
-There once was a builder named Wright,
-Who made one small script take all night.
-He added a layer,
-Then three more to share,
-And called every tangle “just right.”
+A toaster demanded a stack
+Of twelve services just for a snack.
+They booted at dawn,
+But breakfast was gone—
+The bread stayed stone-cold in the rack.
