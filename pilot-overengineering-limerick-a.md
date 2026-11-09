@@ -1,5 +1,5 @@
-There once was a task small and plain,
-So I built it a six-layer chain;
-With dashboards galore,
-Then I added four more—
-Now the fix needs a fix for the chain.
+One kitchen timer timed my stew,
+So I built a Kubernetes cluster anew;
+Three pods rang the bell,
+With load balancing as well—
+Now tea waits on a rollback or two.
