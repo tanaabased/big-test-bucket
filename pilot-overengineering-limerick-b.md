@@ -1,5 +1,5 @@
-A builder just needed a gate,
-But designed an elaborate state;
-With six review queues,
-And dashboards to use,
-It shipped when the hinges were out of date.
+A toaster needed Kubernetes to run,
+But its change-approval committee said, “Not done!”
+Their meeting ran late,
+So the bread had to wait,
+And went stale before sign-off was done.
